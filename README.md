@@ -1,4 +1,8 @@
-## Hi there 👋
+## Sejam Bem-Vindos!
+
+👽 Olá, me chamo Anderson Krainski!
+
+💬 Sou analista de sistema e sour formado de Técnologia em Informática pela UFPR.
 
 <!--
 **dev-krainski/dev-krainski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
